@@ -1,8 +1,9 @@
 ## **Hey there**, *I'm Show!* <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="58px" alt="hi">
 
 
-[![Mail Badge](https://img.shields.io/badge/-@show-e84393?style=flat&labelColor=d44393&logo=instagram&logoColor=white)](https://www.instagram.com/shows_creation/?hl=en) [![Mail Badge](https://img.shields.io/badge/-showmma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](id2019showbikshowmma@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-@show-e84393?style=flat&labelColor=a12294&logo=instagram&logoColor=white)](https://www.instagram.com/shows_creation/?hl=en) [![Mail Badge](https://img.shields.io/badge/-showmma-ff2b5d?style=flat&labelColor=ff003c&logo=gmail&logoColor=white)](id2019showbikshowmma@gmail.com)  [![Discord Badge](https://img.shields.io/badge/-Discord-7f49e3?style=flat&labelColor=4d1fa3&logo=Discord&logoColor=white)](https://discord.gg/hnHQP25Yp8)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=show) 
+
 
 
 
@@ -33,7 +34,7 @@
 
 <br>
 
- <img align="right" alt="GIF" src="github4.gif" width="475" height="320" style="border-radius:20%" />
+ <img align="right" alt="GIF" src="github4.gif" width="475" height="320" style="border-radius:12%" />
 
 - 🔭 I’m currently studying **computer science** in Italy
 
@@ -52,11 +53,12 @@
 <br>
 
 
-## **languages that I use**
+## **languages and tools that I use**
 
-[![Python](https://img.shields.io/badge/-Python-e0a51b?style=for-the-badge&labelColor=blue&logo=Python&logoColor=ffde00&)](#) [![Django Badge](https://img.shields.io/badge/-Django-227328?style=for-the-badge&labelColor=white&logo=Django&logoColor=2c7a05)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-08c2cc?style=for-the-badge&labelColor=grey&logo=typescript&logoColor=0fe7f2)](#) ![postgresql Badge](https://img.shields.io/badge/-postgresql-0884c7?style=for-the-badge&labelColor=lightgreen&logo=postgresql&logoColor=0884c7)  <img src="github5.gif" width="78px" alt="hi">
+[![Git](https://img.shields.io/badge/-GIT-f76300?style=for-the-badge&labelColor=white&logo=Git&logoColor=f76300)](#) [![Python](https://img.shields.io/badge/-Python-e0a51b?style=for-the-badge&labelColor=blue&logo=Python&logoColor=ffde00&)](#) [![Django Badge](https://img.shields.io/badge/-Django-227328?style=for-the-badge&labelColor=white&logo=Django&logoColor=2c7a05)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-08c2cc?style=for-the-badge&labelColor=grey&logo=typescript&logoColor=0fe7f2)](#) ![postgresql Badge](https://img.shields.io/badge/-postgresql-0884c7?style=for-the-badge&labelColor=lightgreen&logo=postgresql&logoColor=0884c7)  <img src="github5.gif" width="78px" alt="hi">
 
 <img src="https://i.pinimg.com/originals/b3/00/ed/b300ed8315ccf16b886d583c06670ef2.gif" width="58px" alt="hi"><img src="https://i.pinimg.com/originals/b3/00/ed/b300ed8315ccf16b886d583c06670ef2.gif" width="58px" alt="hi"><img src="https://i.pinimg.com/originals/b3/00/ed/b300ed8315ccf16b886d583c06670ef2.gif" width="58px" alt="hi"><img src="https://i.pinimg.com/originals/b3/00/ed/b300ed8315ccf16b886d583c06670ef2.gif" width="58px" alt="hi"><img src="https://i.pinimg.com/originals/b3/00/ed/b300ed8315ccf16b886d583c06670ef2.gif" width="58px" alt="hi"><img src="https://i.pinimg.com/originals/b3/00/ed/b300ed8315ccf16b886d583c06670ef2.gif" width="58px" alt="hi">
+
 
 <img align="right" alt="GIF" src="github8.gif" width="90"  />
 <img align="right" alt="GIF" src="github6.gif" width="40"  />
@@ -68,7 +70,7 @@
 <details>
 
 <summary>
-🤫<b>special things about me<b>🤫 
+<b>special things about me<b>🤫 
 </summary>
 
 <br >
