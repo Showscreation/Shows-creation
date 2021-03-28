@@ -99,7 +99,7 @@ others             14 mins   ▓░░░░░░░░░░░░░░░░
 
 #### **Github Stats**✅
 
-![Show's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shows-creation&show_icons=true&theme=radical) 
+![Show's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shows-creation&show_icons=true&theme=radical&bg_colour=cyan) 
 
 </details>
 
