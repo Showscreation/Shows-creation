@@ -47,8 +47,6 @@
 
 - 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove ur self again!💖 
 
-<br>
-
 
 ## **languages and tools that I use**
 
