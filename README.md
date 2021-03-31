@@ -60,9 +60,11 @@
 
 
 <img align="right" alt="GIF" src="github8.gif" width="90"  />
-<img align="right" alt="GIF" src="github6.gif" width="40"  />
+<img align="left" alt="GIF" src="github6.gif" width="21.9"  />
 
 <br />
+
+<br>
 
 
 
