@@ -13,8 +13,6 @@
 ### I'm Showmma, as a lazy boy 🥺  who is **creative** like you and trying to beat with codes by learning more and more! I spend most of my time by learning new things of programming, and  
 **I believe in myself with one thing that, if I work hard I can easily fulfill my dream**😇
 
-<br>
-
 
 ###   **IF u guys support me on  on social media like on [Instragram](https://www.instagram.com/shows_creation/?hl=en) <img src="github3.gif" width="58px" alt="hi">, I swear to god 🥺 it will help me a lot to make something really **INSANE** for you!**
 
