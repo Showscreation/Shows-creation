@@ -19,7 +19,7 @@
 
 <img src="https://i.pinimg.com/originals/7b/13/7c/7b137c48419e95e12416e783cc804e45.gif" width="68px" alt="hello">
 
-<br>
+
 
 
 
@@ -29,7 +29,7 @@
 
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<br>
+
 
  <img align="right" alt="GIF" src="github4.gif" width="475" height="320"  />
 
