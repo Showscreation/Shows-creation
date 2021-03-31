@@ -47,6 +47,7 @@
 
 - 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove ur self again!💖 
 
+<br>
 
 ## **languages and tools that I use**
 [![Git](https://img.shields.io/badge/-GIT-f76300?style=for-the-badge&labelColor=white&logo=Git&logoColor=f76300)](#) [![Python](https://img.shields.io/badge/-Python-e0a51b?style=for-the-badge&labelColor=blue&logo=Python&logoColor=ffde00&)](#) [![Django Badge](https://img.shields.io/badge/-Django-227328?style=for-the-badge&labelColor=white&logo=Django&logoColor=2c7a05)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-08c2cc?style=for-the-badge&labelColor=grey&logo=typescript&logoColor=0fe7f2)](#) ![postgresql Badge](https://img.shields.io/badge/-postgresql-0884c7?style=for-the-badge&labelColor=lightgreen&logo=postgresql&logoColor=0884c7)  
