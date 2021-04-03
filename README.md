@@ -33,17 +33,17 @@
 
  <img align="right" alt="GIF" src="github4.gif" width="475" height="320"  />
 
-- 🔭 I’m currently studying **computer science** in Italy
+- 🔭 I’m currently studying **computer science** in Europe
 
 - 💻Fvt command in git that I use almost everyday - git status(tree clean)😀
 
 - 🤔 I’m curently working on my new projects
 
-- 😄 Pronouns my name : s-h-o-w-o-m-m-a or 'Show' is enough😄
+- 😄 Pronouns my name : S-H-O-W-M-M-A or 'Show' is enough😄
 
 - ⚡ Fun fact: I wake up late and like to learn something new.
 
-- 📫 Have any question? : id2019showbikshowmma@gmail.com
+- 📫 Have any question? : [here u are..] (id2019showbikshowmma@gmail.com)
 
 - 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove ur self again!💖 
 
