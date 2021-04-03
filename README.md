@@ -43,7 +43,7 @@
 
 - ⚡ Fun fact: I wake up late and like to learn something new.
 
-- 📫 Have any question? : [here u are](https://mail.google.com/mail/u/?authuser=id2019showbikshowmma@gmail.com)
+- 📫 Have any question? : [here u goo!](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrdlWHRZjJcVGcdwjxMzKRFLhPlxvFLSmLJsdPkJjRbJrrhfrLXJCnknBBFVXxBMgvcRCg)
 
 - 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove ur self again!💖 
 
