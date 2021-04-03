@@ -40,7 +40,7 @@
 
 - 😄 Pronouns my name : S-H-O-W-M-M-A or 'Show' is enough😄
 
-- ⚡ Fun fact: I wake up late and like to learn something new.
+- ⚡ Fun fact: I wake up late and like to eat sweets.
 
 - 📫 Have any questions? : [here you go🤫](mailto:id2019showbikshowmma@gmail.com)
 
