@@ -44,7 +44,7 @@
 
 - 📫 Have any questions? : [here you go🤫](mailto:id2019showbikshowmma@gmail.com)
 
-- 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove ur self again!💖 
+- 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove   ur self again!💖 
 
 
 <br>
