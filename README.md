@@ -16,8 +16,7 @@
 
 ###   **IF u guys support me on  on social media like on [Instragram](https://www.instagram.com/shows_creation/?hl=en) <img src="github3.gif" width="58px" alt="hi">, I swear to god 🥺 it will help me a lot to make something really **INSANE** for you!**
 
-
-      <img src="https://i.pinimg.com/originals/7b/13/7c/7b137c48419e95e12416e783cc804e45.gif" width="68px" alt="hello" > 
+> 
 
 
 
