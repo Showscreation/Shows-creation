@@ -43,7 +43,7 @@
 
 - ⚡ Fun fact: I wake up late and like to learn something new.
 
-- 📫 Have any question? :[![Mail Badge](https://img.shields.io/badge/-showmma-ff2b5d?style=flat&labelColor=ff003c&logo=gmail&logoColor=white)](id2019showbikshowmma@gmail.com)
+- 📫 Have any questions? : [here you go🤫](id2019showbikshowmma@gmail.com)
 
 - 🤫 Remeber: if u fail in your life that means u learned so many things in ur life to prove ur self again!💖 
 
