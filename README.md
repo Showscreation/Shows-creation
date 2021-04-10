@@ -14,7 +14,7 @@
 **I believe in myself with one thing that, if I work hard I can easily fulfill my dream**😇
 
 
-###   **IF u guys support me on  on social media like on [Instragram](https://www.instagram.com/shows_creation/?hl=en) <img src="github3.gif" width="58px" alt="hi">, I swear to god 🥺 it will help me a lot to make something really **INSANE** for you!**
+###   **IF u guys support me on social media like on [Instragram](https://www.instagram.com/shows_creation/?hl=en) <img src="github3.gif" width="58px" alt="hi">, I swear to god 🥺 it will help me a lot to make something really **INSANE** for you!**
 
 > 
 
@@ -38,7 +38,7 @@
 
 - 🤔 I’m curently working on my new projects
 
-- 😄 Pronouns my name : S-H-O-W-M-M-A or 'Show' is enough😄
+- 😄 Pronounce my name : S-H-O-W-M-M-A or 'Show' is enough😄
 
 - ⚡ Fun fact: I wake up late and like to eat sweets.
 
